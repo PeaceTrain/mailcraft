@@ -12,6 +12,7 @@ thiserror.workspace = true
 base64.workspace = true
 serde.workspace = true
 serde_json.workspace = true
+roxmltree.workspace = true
 log.workspace = true
 # TLS: rustls with the ring provider (Apache-2.0 OR ISC OR MIT; ring is Apache-2.0 AND ISC); system roots from
 # rustls-native-certs (Apache-2.0 OR ISC OR MIT). No webpki-roots (CDLA/MPL data).

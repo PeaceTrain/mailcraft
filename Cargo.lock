@@ -2218,6 +2218,7 @@ dependencies = [
  "proptest",
  "rcgen",
  "ring",
+ "roxmltree",
  "rustls",
  "rustls-native-certs",
  "serde",
