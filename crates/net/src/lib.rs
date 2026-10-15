@@ -10,6 +10,7 @@ pub mod discover;
 pub mod dns;
 pub mod error;
 pub mod eventsource;
+pub mod ews;
 pub mod http;
 pub mod imap;
 pub mod jmap;
