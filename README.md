@@ -1,5 +1,10 @@
 <h1 align="center">MailCraft</h1>
 
+> **Personal fork:** I maintain this fork for my own use, exploring grommunio groupware
+> support (mail, calendars, contacts, tasks and notes) on Windows, macOS and Linux.
+> This work is experimental and is developed with assistance from OpenAI Codex.
+> The original MailCraft project is maintained at [MonkeySaint/mailcraft](https://github.com/MonkeySaint/mailcraft).
+
 <p align="center">
   <img src="assets/app-icon/hicolor/128x128/apps/mailcraft.png" alt="MailCraft app icon: a white envelope with a shaded flap on a teal tile" width="96">
 </p>
